@@ -95,3 +95,6 @@ ENV/
 scrapy.cfg
 config.py
 settings.py
+
+# test
+test.py
